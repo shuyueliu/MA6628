@@ -1,6 +1,6 @@
-## MA6628
+## MA6628 Projects
 
-### Click Here for the list of projects. The solutions are given below.
+#### Click Here for the list of projects. The solutions are given below.
 - Prj01
 - Prj02
 - Prj03
