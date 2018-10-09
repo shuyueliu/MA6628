@@ -1,6 +1,6 @@
 ## MA6628 Projects
 
-#### Click Here for the list of projects. The solutions are given below.
+#### Click [Here](https://github.com/shuyueliu/MA6628/blob/master/Assignments.ipynb) for the list of projects. The solutions are given below.
 - Prj01
 - Prj02
 - Prj03
