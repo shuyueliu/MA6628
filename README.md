@@ -4,5 +4,5 @@
 - [Prj01](https://github.com/shuyueliu/MA6628/blob/master/prj01.ipynb)
 - Prj02
 - Prj03
-- Prj04v01
-- Prj04v02
+- [Prj04v01](https://github.com/shuyueliu/MA6628/blob/master/prj04v01.ipynb)
+- [Prj04v02](https://github.com/shuyueliu/MA6628/blob/master/prj04v02.ipynb)
