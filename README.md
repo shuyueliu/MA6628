@@ -10,4 +10,4 @@
 - [Prj04v02](https://github.com/shuyueliu/MA6628/blob/master/prj04v02.ipynb)
 - [Prj04_new](https://github.com/shuyueliu/MA6628/blob/master/prj04-shuyueliu-new.ipynb)
 - [Prj05](https://github.com/shuyueliu/MA6628/blob/master/prj05-shuyueliu.ipynb)
-- Prj06
+- [Prj06](https://github.com/shuyueliu/MA6628_Homework/blob/master/Prj06-shuyueliu-55381016.ipynb)
